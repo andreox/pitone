@@ -1,2 +1,2 @@
-# python-basics
-Started learning Python. 
+# pitone
+Python exercises and small projects
